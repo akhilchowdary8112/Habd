@@ -1,4 +1,4 @@
-const url="https://hedb.herokuapp.com/api"
+const url="https://hebd.onrender.com/api"
 export const setHeader=()=>{
     const header={
        headers:{
